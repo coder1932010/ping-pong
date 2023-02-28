@@ -24,3 +24,6 @@
 canvas{
 position: inherit;
 }
+footer{
+    position: sticky bottom;
+}
