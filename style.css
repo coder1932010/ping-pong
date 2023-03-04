@@ -25,5 +25,13 @@ canvas{
 position: inherit;
 }
 footer{
-    position: sticky bottom;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: cyan;
+    line-height: 3;
+}
+h4{
+    display: inline;
 }
